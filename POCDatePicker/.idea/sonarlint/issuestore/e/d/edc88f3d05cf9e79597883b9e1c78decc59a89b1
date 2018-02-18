@@ -1,0 +1,7 @@
+
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ò“ÿšùÿÿÿÿ8³îşœ“,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ8³îşœ“,
+Rsquid:S1153"1Directly append the argument of String.valueOf().(–Á¬Èşÿÿÿÿ8³îşœ“,
+Msquid:S1153"1Directly append the argument of String.valueOf().(«à›8³îşœ“,
+Rsquid:S1153"1Directly append the argument of String.valueOf().(ÄÿÆÖøÿÿÿÿ8³îşœ“,
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ù ®Íúÿÿÿÿ8³îşœ“,
